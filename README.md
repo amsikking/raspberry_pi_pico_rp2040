@@ -10,6 +10,9 @@ mode and it should now appear as drive called 'RPI-RP2' (like a USB memory stick
 it or simply use the 'Portable variant'. Toggle Thonny into MicroPython mode, select the (connected) Pico
 and start developing and running code directly on the Pico!
 - Try the 'led_toggle.py' example in this repo to get started!
+
+![social_preview](https://github.com/amsikking/raspberry_pi_pico_rp2040/blob/main/social_preview.png)
+
 ## Details:
 - The Pico comes in regular and wireless (+ W) variants, either with or without soldered pins. I opted for 
 the regular with pins, part: RASPBERRY PI PICO H RP2040 SC0917
